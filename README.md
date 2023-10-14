@@ -1,7 +1,9 @@
 <div align="center" >
 <h1><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Hey! Nice to see you.</h1>
 
-<h3>Welcome to my page! </br> I'm Valeria, <b>Frontend developer</b> from <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d4/Flag_of_Russia.png/320px-Flag_of_Russia.png" width="13"/> <b>Saints-Petersburg, Russia</b>. </h3>
+<h3>Welcome to my page! </br> I'm Valeria, <b>Frontend developer</b>
+from <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d4/Flag_of_Russia.png/320px-Flag_of_Russia.png" width="13"/> <b>
+Saints-Petersburg, Russia</b>. </h3>
 
 <img  alt="Coding" width="500" src="https://media.tenor.com/GfSX-u7VGM4AAAAC/coding.gif">
 
@@ -13,6 +15,7 @@
 --- 
 
 ### 📕 Codewars:
+
 [![codewars](https://www.codewars.com/users/ValeriaBog/badges/large?logo=true)](https://www.codewars.com/users/ValeriaBog)
 
 --- 
@@ -68,10 +71,12 @@
         <a href="https://github.com/ValeriaBog/portfolio">My portfolio</a>
      </li>
       <li>
-        <a href="https://github.com/ValeriaBog/social-network-update">Social Network</a>
+        <a href="https://github.com/ValeriaBog/social-network-update">Social Network,</a>
+        <a href="https://valeriabog.github.io/Updated-Social-Network/">Deployed Social Network</a>
      </li>
       <li>
-        <a href="https://github.com/ValeriaBog/Todolist">Todo Manager</a>
+        <a href="https://github.com/ValeriaBog/Todolist">Todo Manager,</a>
+        <a href="https://task-manager-update.vercel.app/">Deployed Todo Manager</a>
      </li>
   </ul>
 </details>
