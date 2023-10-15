@@ -65,7 +65,8 @@ Saints-Petersburg, Russia</b>. </h3>
 <summary><b> React/Redux/TS </b></summary>
   <ul>
      <li>
-        <a href="https://github.com/MrPapperlapapp/flash_cards">Flash cards(in team development)</a>
+        <a href="https://github.com/MrPapperlapapp/flash_cards">Flash cards(team development),</a>
+        <a href="https://fc4.vercel.app/">Deployed Flash cards</a>
      </li>
     <li>
         <a href="https://github.com/ValeriaBog/portfolio">My portfolio</a>
