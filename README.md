@@ -69,7 +69,8 @@ Saints-Petersburg, Russia</b>. </h3>
         <a href="https://fc4.vercel.app/">Deployed Flash cards</a>
      </li>
     <li>
-        <a href="https://github.com/ValeriaBog/portfolio">My portfolio</a>
+        <a href="https://github.com/ValeriaBog/portfolio">My portfolio, </a>
+        <a href="https://valeriabog.github.io/Portfolio/">Deployed portfolio</a>
      </li>
       <li>
         <a href="https://github.com/ValeriaBog/social-network-update">Social Network,</a>
