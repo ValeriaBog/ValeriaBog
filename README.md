@@ -85,7 +85,7 @@ Saints-Petersburg, Russia</b>. </h3>
 <details><summary><b> Angular/NestJS/MongoDB </b></summary>
   <ul>
      <li>
-        <a href="https://vitalyabedik.github.io/NFT-creative-art/">Online delivery of ready-made food</a>
+        <a href="https://github.com/ValeriaBog/Online-ready-to-eat-delivery-service-frontend.git">Online delivery of ready-made food</a>
      </li>
   </ul>
 </details>
