@@ -74,7 +74,6 @@ Saints-Petersburg, Russia</b>. </h3>
      </li>
       <li>
         <a href="https://github.com/ValeriaBog/social-network-update">Social Network,</a>
-        <a href="https://valeriabog.github.io/Updated-Social-Network/">Deployed Social Network</a>
      </li>
       <li>
         <a href="https://github.com/ValeriaBog/Todolist">Todo Manager,</a>
