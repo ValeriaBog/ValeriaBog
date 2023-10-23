@@ -79,14 +79,19 @@ Saints-Petersburg, Russia</b>. </h3>
         <a href="https://github.com/ValeriaBog/Todolist">Todo Manager,</a>
         <a href="https://task-manager-update.vercel.app/">Deployed Todo Manager</a>
      </li>
+<li>
+</li>
   </ul>
 </details>
 
 <details><summary><b> Angular/NestJS/MongoDB </b></summary>
   <ul>
      <li>
-        <a href="https://github.com/ValeriaBog/Online-ready-to-eat-delivery-service-frontend.git">Online delivery of ready-made food</a>
+        <a href="https://github.com/ValeriaBog/Online-ready-to-eat-delivery-service-frontend.git">Online delivery of ready-made food(Frontend)</a>
      </li>
+    <li>
+        <a href="https://github.com/ValeriaBog/Online-ready-to-eat-delivery-service-backend.git">Online delivery of ready-made food(Backend)</a>
+    </li>
   </ul>
 </details>
 
