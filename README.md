@@ -79,8 +79,6 @@ Saints-Petersburg, Russia</b>. </h3>
         <a href="https://github.com/ValeriaBog/Todolist">Todo Manager,</a>
         <a href="https://task-manager-update.vercel.app/">Deployed Todo Manager</a>
      </li>
-<li>
-</li>
   </ul>
 </details>
 
