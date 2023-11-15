@@ -73,11 +73,11 @@ Saints-Petersburg, Russia</b>. </h3>
         <a href="https://valeriabog.github.io/Portfolio/">Deployed portfolio</a>
      </li>
       <li>
-        <a href="https://github.com/ValeriaBog/social-network-update">Social Network,</a>
+        <a href="https://github.com/ValeriaBog/social-network-update">Intgram,</a>
      </li>
       <li>
-        <a href="https://github.com/ValeriaBog/Todolist">Todo Manager,</a>
-        <a href="https://task-manager-update.vercel.app/">Deployed Todo Manager</a>
+        <a href="https://github.com/ValeriaBog/Todolist">Trello,</a>
+        <a href="https://task-manager-update.vercel.app/">Deployed Trello</a>
      </li>
   </ul>
 </details>
